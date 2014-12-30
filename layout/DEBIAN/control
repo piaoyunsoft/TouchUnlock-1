@@ -1,0 +1,8 @@
+Package: com.ioskaneeskan.touchunlock
+Name: TouchUnlock
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Unlock using TouchID without a passcode
+Author: Kaneeskan Senthuran  <kaneeskan.senthuran@outlook.com>
+Section: Tweaks
